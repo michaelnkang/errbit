@@ -70,6 +70,8 @@ gem 'httparty'
 # Flowdock
 gem 'flowdock'
 
+gem 'newrelic_rpm'
+
 # Authentication
 # ---------------------------------------
 # GitHub OAuth
