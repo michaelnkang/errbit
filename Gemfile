@@ -75,6 +75,8 @@ gem 'omniauth-github'
 gem 'ri_cal'
 gem 'yajl-ruby', :require => "yajl"
 
+gem 'newrelic_rpm'
+
 group :development, :test do
   gem 'rspec-rails'
   gem 'webmock', :require => false
